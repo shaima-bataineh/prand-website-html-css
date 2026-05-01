@@ -23,7 +23,7 @@ A responsive multi-page website built using HTML and CSS, designed to present a 
 - img/
 
 ## Live Demo
-[View Website]([PUT-YOUR-LINK-HERE](https://shaima-bataineh.github.io/prand-website-html-css/))
+[link](https://shaima-bataineh.github.io/prand-website-html-css/))
 
 ## Notes
 This project focuses on front-end design and layout structure without back-end functionality.
